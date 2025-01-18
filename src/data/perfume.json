@@ -1,304 +1,302 @@
-{
-    "products": [
-        {
-            "product_name": "Rose Essence Itar",
-            "price": 1200,
-            "description": "A rich, long-lasting floral fragrance with a pure rose essence.",
-            "size": 10,
-            "stock_quantity": 25,
-            "category": "Itar",
-            "tags": [
-                "uni",
-                "itar"
-            ],
-            "image": "image_rose_itar.jpg",
-            "priceAdiscount": 1000,
-            "product_id": "1"
-        },
-        {
-            "product_name": "Royal Oud Perfume",
-            "price": 3500,
-            "description": "A luxurious oud fragrance for special occasions.",
-            "size": 50,
-            "stock_quantity": 10,
-            "category": "EDP",
-            "tags": [
-                "male",
-                "perfume"
-            ],
-            "image": "image_royal_oud.jpg",
-            "priceAdiscount": 3200,
-            "product_id": "2"
-        },
-        {
-            "product_name": "Amber Delight Itar",
-            "price": 1500,
-            "description": "A warm and spicy amber-based itar for daily use.",
-            "size": 15,
-            "stock_quantity": 30,
-            "category": "Itar",
-            "tags": [
-                "uni",
-                "itar"
-            ],
-            "image": "image_amber_delight.jpg",
-            "priceAdiscount": 1400,
-            "product_id": "3"
-        },
-        {
-            "product_name": "Ocean Mist Perfume",
-            "price": 2800,
-            "description": "A fresh aquatic fragrance perfect for summer days.",
-            "size": 100,
-            "stock_quantity": 20,
-            "category": "EDT",
-            "tags": [
-                "uni",
-                "perfume"
-            ],
-            "image": "image_ocean_mist.jpg",
-            "priceAdiscount": 2500,
-            "product_id": "4"
-        },
-        {
-            "product_name": "Mystic Jasmine Itar",
-            "price": 1800,
-            "description": "A soothing fragrance with notes of jasmine and musk.",
-            "size": 12,
-            "stock_quantity": 15,
-            "category": "Itar",
-            "tags": [
-                "female",
-                "itar"
-            ],
-            "image": "image_mystic_jasmine.jpg",
-            "priceAdiscount": 1700,
-            "product_id": "5"
-        },
-        {
-            "product_name": "Citrus Blast Perfume",
-            "price": 2400,
-            "description": "A zesty citrus fragrance that energizes your day.",
-            "size": 75,
-            "stock_quantity": 18,
-            "category": "EDP",
-            "tags": [
-                "male",
-                "perfume"
-            ],
-            "image": "image_citrus_blast.jpg",
-            "priceAdiscount": 2200,
-            "product_id": "6"
-        },
-        {
-            "product_name": "Sandalwood Serenity Itar",
-            "price": 2500,
-            "description": "A rich sandalwood fragrance with a calming aroma.",
-            "size": 20,
-            "stock_quantity": 12,
-            "category": "Itar",
-            "tags": [
-                "uni",
-                "itar"
-            ],
-            "image": "image_sandalwood_serenity.jpg",
-            "priceAdiscount": 2300,
-            "product_id": "7"
-        },
-        {
-            "product_name": "Midnight Vanilla Perfume",
-            "price": 3000,
-            "description": "A sweet and warm vanilla fragrance for evening wear.",
-            "size": 100,
-            "stock_quantity": 22,
-            "category": "EDP",
-            "tags": [
-                "female",
-                "perfume"
-            ],
-            "image": "image_midnight_vanilla.jpg",
-            "priceAdiscount": 2800,
-            "product_id": "8"
-        },
-        {
-            "product_name": "Oriental Spices Perfume",
-            "price": 3200,
-            "description": "A unique blend of oriental spices and woody notes.",
-            "size": 50,
-            "stock_quantity": 18,
-            "category": "EDP",
-            "tags": [
-                "male",
-                "perfume"
-            ],
-            "image": "image_oriental_spices.jpg",
-            "priceAdiscount": 3000,
-            "product_id": "9"
-        },
-        {
-            "product_name": "Fresh Lavender Itar",
-            "price": 1900,
-            "description": "A refreshing lavender-based itar perfect for all-day use.",
-            "size": 15,
-            "stock_quantity": 20,
-            "category": "Itar",
-            "tags": [
-                "uni",
-                "itar"
-            ],
-            "image": "image_fresh_lavender.jpg",
-            "priceAdiscount": 1800,
-            "product_id": "10"
-        },
-        {
-            "product_name": "Golden Musk Itar",
-            "price": 2200,
-            "description": "A luxurious musk-based itar for men and women.",
-            "size": 25,
-            "stock_quantity": 15,
-            "category": "Itar",
-            "tags": [
-                "uni",
-                "itar"
-            ],
-            "image": "image_golden_musk.jpg",
-            "priceAdiscount": 2000,
-            "product_id": "11"
-        },
-        {
-            "product_name": "Sweet Peony Perfume",
-            "price": 2600,
-            "description": "A floral fragrance with notes of peony and freesia.",
-            "size": 90,
-            "stock_quantity": 25,
-            "category": "EDP",
-            "tags": [
-                "female",
-                "perfume"
-            ],
-            "image": "image_sweet_peony.jpg",
-            "priceAdiscount": 2400,
-            "product_id": "12"
-        },
-        {
-            "product_name": "Classic Citrus Perfume",
-            "price": 2000,
-            "description": "A classic citrus fragrance with a modern twist.",
-            "size": 80,
-            "stock_quantity": 18,
-            "category": "EDT",
-            "tags": [
-                "male",
-                "perfume"
-            ],
-            "image": "image_classic_citrus.jpg",
-            "priceAdiscount": 1800,
-            "product_id": "13"
-        },
-        {
-            "product_name": "Exotic Patchouli Itar",
-            "price": 2400,
-            "description": "A bold patchouli-based fragrance for confident individuals.",
-            "size": 20,
-            "stock_quantity": 10,
-            "category": "Itar",
-            "tags": [
-                "uni",
-                "itar"
-            ],
-            "image": "image_exotic_patchouli.jpg",
-            "priceAdiscount": 2200,
-            "product_id": "14"
-        },
-        {
-            "product_name": "Velvet Rose Perfume",
-            "price": 2900,
-            "description": "A delicate blend of rose and vanilla for romantic evenings.",
-            "size": 70,
-            "stock_quantity": 14,
-            "category": "EDP",
-            "tags": [
-                "female",
-                "perfume"
-            ],
-            "image": "image_velvet_rose.jpg",
-            "priceAdiscount": 2700,
-            "product_id": "15"
-        },
-        {
-            "product_name": "Cedarwood Fresh Perfume",
-            "price": 2700,
-            "description": "A clean and refreshing cedarwood fragrance.",
-            "size": 100,
-            "stock_quantity": 22,
-            "category": "EDT",
-            "tags": [
-                "uni",
-                "perfume"
-            ],
-            "image": "image_cedarwood_fresh.jpg",
-            "priceAdiscount": 2500,
-            "product_id": "16"
-        },
-        {
-            "product_name": "Jasmine Bliss Itar",
-            "price": 2000,
-            "description": "A sweet jasmine fragrance with subtle musk undertones.",
-            "size": 15,
-            "stock_quantity": 18,
-            "category": "Itar",
-            "tags": [
-                "female",
-                "itar"
-            ],
-            "image": "image_jasmine_bliss.jpg",
-            "priceAdiscount": 1900,
-            "product_id": "17"
-        },
-        {
-            "product_name": "Citrus Wood Perfume",
-            "price": 3100,
-            "description": "A woody citrus fragrance with a sophisticated vibe.",
-            "size": 50,
-            "stock_quantity": 16,
-            "category": "EDP",
-            "tags": [
-                "male",
-                "perfume"
-            ],
-            "image": "image_citrus_wood.jpg",
-            "priceAdiscount": 2900,
-            "product_id": "18"
-        },
-        {
-            "product_name": "Spicy Amber Itar",
-            "price": 2300,
-            "description": "A deep amber fragrance with spicy accents.",
-            "size": 12,
-            "stock_quantity": 12,
-            "category": "Itar",
-            "tags": [
-                "uni",
-                "itar"
-            ],
-            "image": "image_spicy_amber.jpg",
-            "priceAdiscount": 2200,
-            "product_id": "19"
-        },
-        {
-            "product_name": "Royal Sandal Perfume",
-            "price": 4000,
-            "description": "A regal sandalwood fragrance with creamy undertones.",
-            "size": 100,
-            "stock_quantity": 8,
-            "category": "EDP",
-            "tags": [
-                "uni",
-                "perfume"
-            ],
-            "image": "image_royal_sandal.jpg",
-            "priceAdiscount": 3700,
-            "product_id": "20"
-        }
-    ]
-}
+[
+    {
+        "product_name": "Rose Essence Itar",
+        "price": 1200,
+        "description": "A rich, long-lasting floral fragrance with a pure rose essence.",
+        "size": 10,
+        "stock_quantity": 25,
+        "category": "Itar",
+        "tags": [
+            "uni",
+            "itar"
+        ],
+        "image": "image_rose_itar.jpg",
+        "priceAdiscount": 1000,
+        "product_id": "1"
+    },
+    {
+        "product_name": "Royal Oud Perfume",
+        "price": 3500,
+        "description": "A luxurious oud fragrance for special occasions.",
+        "size": 50,
+        "stock_quantity": 10,
+        "category": "EDP",
+        "tags": [
+            "male",
+            "perfume"
+        ],
+        "image": "image_royal_oud.jpg",
+        "priceAdiscount": 3200,
+        "product_id": "2"
+    },
+    {
+        "product_name": "Amber Delight Itar",
+        "price": 1500,
+        "description": "A warm and spicy amber-based itar for daily use.",
+        "size": 15,
+        "stock_quantity": 30,
+        "category": "Itar",
+        "tags": [
+            "uni",
+            "itar"
+        ],
+        "image": "image_amber_delight.jpg",
+        "priceAdiscount": 1400,
+        "product_id": "3"
+    },
+    {
+        "product_name": "Ocean Mist Perfume",
+        "price": 2800,
+        "description": "A fresh aquatic fragrance perfect for summer days.",
+        "size": 100,
+        "stock_quantity": 20,
+        "category": "EDT",
+        "tags": [
+            "uni",
+            "perfume"
+        ],
+        "image": "image_ocean_mist.jpg",
+        "priceAdiscount": 2500,
+        "product_id": "4"
+    },
+    {
+        "product_name": "Mystic Jasmine Itar",
+        "price": 1800,
+        "description": "A soothing fragrance with notes of jasmine and musk.",
+        "size": 12,
+        "stock_quantity": 15,
+        "category": "Itar",
+        "tags": [
+            "female",
+            "itar"
+        ],
+        "image": "image_mystic_jasmine.jpg",
+        "priceAdiscount": 1700,
+        "product_id": "5"
+    },
+    {
+        "product_name": "Citrus Blast Perfume",
+        "price": 2400,
+        "description": "A zesty citrus fragrance that energizes your day.",
+        "size": 75,
+        "stock_quantity": 18,
+        "category": "EDP",
+        "tags": [
+            "male",
+            "perfume"
+        ],
+        "image": "image_citrus_blast.jpg",
+        "priceAdiscount": 2200,
+        "product_id": "6"
+    },
+    {
+        "product_name": "Sandalwood Serenity Itar",
+        "price": 2500,
+        "description": "A rich sandalwood fragrance with a calming aroma.",
+        "size": 20,
+        "stock_quantity": 12,
+        "category": "Itar",
+        "tags": [
+            "uni",
+            "itar"
+        ],
+        "image": "image_sandalwood_serenity.jpg",
+        "priceAdiscount": 2300,
+        "product_id": "7"
+    },
+    {
+        "product_name": "Midnight Vanilla Perfume",
+        "price": 3000,
+        "description": "A sweet and warm vanilla fragrance for evening wear.",
+        "size": 100,
+        "stock_quantity": 22,
+        "category": "EDP",
+        "tags": [
+            "female",
+            "perfume"
+        ],
+        "image": "image_midnight_vanilla.jpg",
+        "priceAdiscount": 2800,
+        "product_id": "8"
+    },
+    {
+        "product_name": "Oriental Spices Perfume",
+        "price": 3200,
+        "description": "A unique blend of oriental spices and woody notes.",
+        "size": 50,
+        "stock_quantity": 18,
+        "category": "EDP",
+        "tags": [
+            "male",
+            "perfume"
+        ],
+        "image": "image_oriental_spices.jpg",
+        "priceAdiscount": 3000,
+        "product_id": "9"
+    },
+    {
+        "product_name": "Fresh Lavender Itar",
+        "price": 1900,
+        "description": "A refreshing lavender-based itar perfect for all-day use.",
+        "size": 15,
+        "stock_quantity": 20,
+        "category": "Itar",
+        "tags": [
+            "uni",
+            "itar"
+        ],
+        "image": "image_fresh_lavender.jpg",
+        "priceAdiscount": 1800,
+        "product_id": "10"
+    },
+    {
+        "product_name": "Golden Musk Itar",
+        "price": 2200,
+        "description": "A luxurious musk-based itar for men and women.",
+        "size": 25,
+        "stock_quantity": 15,
+        "category": "Itar",
+        "tags": [
+            "uni",
+            "itar"
+        ],
+        "image": "image_golden_musk.jpg",
+        "priceAdiscount": 2000,
+        "product_id": "11"
+    },
+    {
+        "product_name": "Sweet Peony Perfume",
+        "price": 2600,
+        "description": "A floral fragrance with notes of peony and freesia.",
+        "size": 90,
+        "stock_quantity": 25,
+        "category": "EDP",
+        "tags": [
+            "female",
+            "perfume"
+        ],
+        "image": "image_sweet_peony.jpg",
+        "priceAdiscount": 2400,
+        "product_id": "12"
+    },
+    {
+        "product_name": "Classic Citrus Perfume",
+        "price": 2000,
+        "description": "A classic citrus fragrance with a modern twist.",
+        "size": 80,
+        "stock_quantity": 18,
+        "category": "EDT",
+        "tags": [
+            "male",
+            "perfume"
+        ],
+        "image": "image_classic_citrus.jpg",
+        "priceAdiscount": 1800,
+        "product_id": "13"
+    },
+    {
+        "product_name": "Exotic Patchouli Itar",
+        "price": 2400,
+        "description": "A bold patchouli-based fragrance for confident individuals.",
+        "size": 20,
+        "stock_quantity": 10,
+        "category": "Itar",
+        "tags": [
+            "uni",
+            "itar"
+        ],
+        "image": "image_exotic_patchouli.jpg",
+        "priceAdiscount": 2200,
+        "product_id": "14"
+    },
+    {
+        "product_name": "Velvet Rose Perfume",
+        "price": 2900,
+        "description": "A delicate blend of rose and vanilla for romantic evenings.",
+        "size": 70,
+        "stock_quantity": 14,
+        "category": "EDP",
+        "tags": [
+            "female",
+            "perfume"
+        ],
+        "image": "image_velvet_rose.jpg",
+        "priceAdiscount": 2700,
+        "product_id": "15"
+    },
+    {
+        "product_name": "Cedarwood Fresh Perfume",
+        "price": 2700,
+        "description": "A clean and refreshing cedarwood fragrance.",
+        "size": 100,
+        "stock_quantity": 22,
+        "category": "EDT",
+        "tags": [
+            "uni",
+            "perfume"
+        ],
+        "image": "image_cedarwood_fresh.jpg",
+        "priceAdiscount": 2500,
+        "product_id": "16"
+    },
+    {
+        "product_name": "Jasmine Bliss Itar",
+        "price": 2000,
+        "description": "A sweet jasmine fragrance with subtle musk undertones.",
+        "size": 15,
+        "stock_quantity": 18,
+        "category": "Itar",
+        "tags": [
+            "female",
+            "itar"
+        ],
+        "image": "image_jasmine_bliss.jpg",
+        "priceAdiscount": 1900,
+        "product_id": "17"
+    },
+    {
+        "product_name": "Citrus Wood Perfume",
+        "price": 3100,
+        "description": "A woody citrus fragrance with a sophisticated vibe.",
+        "size": 50,
+        "stock_quantity": 16,
+        "category": "EDP",
+        "tags": [
+            "male",
+            "perfume"
+        ],
+        "image": "image_citrus_wood.jpg",
+        "priceAdiscount": 2900,
+        "product_id": "18"
+    },
+    {
+        "product_name": "Spicy Amber Itar",
+        "price": 2300,
+        "description": "A deep amber fragrance with spicy accents.",
+        "size": 12,
+        "stock_quantity": 12,
+        "category": "Itar",
+        "tags": [
+            "uni",
+            "itar"
+        ],
+        "image": "image_spicy_amber.jpg",
+        "priceAdiscount": 2200,
+        "product_id": "19"
+    },
+    {
+        "product_name": "Royal Sandal Perfume",
+        "price": 4000,
+        "description": "A regal sandalwood fragrance with creamy undertones.",
+        "size": 100,
+        "stock_quantity": 8,
+        "category": "EDP",
+        "tags": [
+            "uni",
+            "perfume"
+        ],
+        "image": "image_royal_sandal.jpg",
+        "priceAdiscount": 3700,
+        "product_id": "20"
+    }
+]
