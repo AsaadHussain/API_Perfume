@@ -1,153 +1,164 @@
 [
     {
-        "product_name": "ACQUA DI",
+        "product_name": "ACQUA DI GIO GA",
         "price": 1800,
         "description": "A fresh aquatic fragrance perfect for summer days",
-        "size": 50,
+        "size": 100,
         "stock_quantity": 25,
-        "category": "perfume",
+        "category": "EDP",
         "tags": [
             "uni",
-            "perfume"
+            "Ocean",
+            "EDP"
         ],
         "image": "https://api-perfume.vercel.app/product/aqua%20di%20gio.png",
         "priceAdiscount": 1600,
-        "product_id": "1"
+        "rating": 4
+
     },
     {
-        "product_name": "COCO CHANEL",
+        "product_name": "COCO MADEMOISELLE CHANEL",
         "price": 3500,
         "description": "A luxurious Amber fragrance for special occasions.",
-        "size": 50,
+        "size": 70,
         "stock_quantity": 10,
         "category": "EDP",
         "tags": [
-            "male",
-            "perfume"
+            "Female",
+            "Fruity",
+            "EDP"
         ],
         "image": "https://api-perfume.vercel.app/product/coco%20mad%20chanel.png",
         "priceAdiscount": 3300,
-        "product_id": "2"
+        "rating": 3
     },
     {
-        "product_name": "Sun di Gioia Perfume",
+        "product_name": "Sun di Gioia GA",
         "price": 2800,
-        "description": ".A rich, long-lasting floral fragrance with a pure home.",
+        "description": "A rich, long-lasting floral fragrance with a pure home.",
         "size": 50,
         "stock_quantity": 20,
         "category": "EDT",
         "tags": [
-            "uni",
-            "perfume"
+            "Female",
+            "Floral",
+            "EDT"
         ],
         "image": "https://api-perfume.vercel.app/product/di%20gioia.png",
         "priceAdiscount": 2500,
-        "product_id": "3"
+        "rating": 3
     },
     {
-        "product_name": "GUCCI",
+        "product_name": "Memoire GUCCI",
         "price": 1800,
         "description": "A soothing fragrance with Bellavista with long-lasting and 100% safe for your skin notes of jasmine and musk.",
-        "size": 12,
+        "size": 120,
         "stock_quantity": 15,
-        "category": "perfume",
+        "category": "EDT",
         "tags": [
-            "female and male",
-            "unisex perfume"
+            "EDT",
+            "unisex perfume",
+            "Fruity"
         ],
         "image": "https://api-perfume.vercel.app/product/Gucci.png",
         "priceAdiscount": 1700,
-        "product_id": "4"
+        "rating": 4
     },
     {
-        "product_name": "II LA FORCE Perfume",
+        "product_name": "11 LA FORCE D&G",
         "price": 2400,
         "description": "A zesty citrus fragrance that energizes your day.",
-        "size": 50,
+        "size": 100,
         "stock_quantity": 18,
         "category": "EDP",
         "tags": [
             "male",
-            "perfume"
+            "EDP",
+            "sporty"
         ],
         "image": "https://api-perfume.vercel.app/product/la%20force.png",
         "priceAdiscount": 2200,
-        "product_id": "5"
+        "rating": 5
     },
     {
-        "product_name": "Laurissi",
+        "product_name": "L'EAU LAURISSI",
         "price": 2500,
         "description": "A rich sandalwood fragrance with a calming aroma.",
-        "size": 20,
+        "size": 50,
         "stock_quantity": 12,
-        "category": "perfume",
+        "category": "EDP",
         "tags": [
-            "uni",
-            "perfume"
+            "Female",
+            "EDP",
+            "Floral"
         ],
         "image": "https://api-perfume.vercel.app/product/laurissi.png",
         "priceAdiscount": 2200,
-        "product_id": "6"
+        "rating": 5
     },
     {
         "product_name": "Miss Dier Perfume",
         "price": 3000,
-        "description": "A sweet and warm vanilla fragrance for evening wear.",
-        "size": 100,
+        "description": "A sweet and warm Blooming Bouquet scent for evening wear.",
+        "size": 40,
         "stock_quantity": 22,
-        "category": "EDP",
+        "category": "EDT",
         "tags": [
-            "female",
-            "perfume"
+            "Female",
+            "EDT",
+            "Floral"
         ],
         "image": "https://api-perfume.vercel.app/product/miss%20dier.png",
         "priceAdiscount": 2500,
-        "product_id": "7"
+        "rating": 4
     },
     {
-        "product_name": "N 5 CHANEL Perfume",
+        "product_name": "N 5 CHANEL",
         "price": 3200,
         "description": "A unique blend of oriental spices and woody notes.",
-        "size": 50,
+        "size": 100,
         "stock_quantity": 18,
         "category": "EDP",
         "tags": [
             "male",
-            "perfume"
+            "EDP",
+            "Formal"
         ],
         "image": "https://api-perfume.vercel.app/product/n5%20chanel.png",
         "priceAdiscount": 2500,
-        "product_id": "8"
+        "rating": 4
     },
     {
-        "product_name": "ROGUE",
+        "product_name": "ROGUE By Rihanna",
         "price": 1900,
-        "description": "A refreshing lavender-based  perfect for all-day use.",
+        "description": "A refreshing lavender-based perfect for all-day use.",
         "size": 15,
         "stock_quantity": 20,
         "category": "PERFUME",
         "tags": [
             "uni",
-            "Perfume"
+            "EDP",
+            "Woody"
         ],
         "image": "https://api-perfume.vercel.app/product/Rogue.png",
         "priceAdiscount": 1800,
-        "product_id": "9"
+        "rating": 3
     },
     {
-        "product_name": "THE SENSES perfume",
+        "product_name": "N 8 THE SENSES",
         "price": 2200,
         "description": "A luxurious musk-based perfume for men and women.",
-        "size": 25,
+        "size": 50,
         "stock_quantity": 15,
-        "category": "perfume",
+        "category": "parfum",
         "tags": [
             "uni",
-            "PERFUME"
+            "parfum",
+            "Gourmand"
         ],
         "image": "https://api-perfume.vercel.app/product/the%20senses.png",
         "priceAdiscount": 2100,
-        "product_id": "10"
+        "rating": 3
     },
     {
         "product_name": "Rose Essence Attar",
@@ -155,148 +166,165 @@
         "description": "A rich, long-lasting floral fragrance with a pure rose essence.",
         "size": 10,
         "stock_quantity": 25,
-        "category": "Itar",
+        "category": "Attar",
         "tags": [
             "uni",
-            "itar"
+            "Attar",
+            "Floral",
+            "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar1.png",
         "price after discount": 1000,
-        "product_id": "11"
+        "rating": 4
     },
     {
-        "product_name": "Royal Oud Perfume",
+        "product_name": "Royal Oud Attar",
         "price": 3500,
         "description": "A luxurious oud fragrance for special occasions.",
         "size": 50,
         "stock_quantity": 10,
-        "category": "EDP",
+        "category": "Attar",
         "tags": [
             "male",
-            "perfume"
+            "Attar",
+            "Oud",
+            "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar2.png",
         "priceaftardiscount": 3200,
-        "product_id": "12"
+        "rating": 5
     },
     {
-        "product_name": "Amber Delight attar",
+        "product_name": "Oud and Rose Cartier",
         "price": 1500,
-        "description": "A warm and spicy amber-based itar for daily use.",
-        "size": 15,
+        "description": "A warm and spicy amber-based attar for daily use.",
+        "size": 70,
         "stock_quantity": 30,
         "category": "attar",
         "tags": [
             "uni",
-            "attar"
+            "attar",
+            "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar3.png",
         "priceAdiscount": 1400,
-        "product_id": "13"
+        "rating": 4
     },
     {
-        "product_name": "Ocean Mist Perfume",
+        "product_name": "Ocean Mist Attar",
         "price": 2800,
         "description": "A fresh aquatic fragrance perfect for summer days.",
-        "size": 100,
+        "size": 50,
         "stock_quantity": 20,
-        "category": "EDT",
+        "category": "Attar",
         "tags": [
             "uni",
-            "perfume"
+            "Attar",
+            "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar4.png",
         "priceAdiscount": 2500,
-        "product_id": "14"
+        "rating": 3
     },
     {
-        "product_name": "Mystic Jasmine Itar",
+        "product_name": "Musk Attar",
         "price": 1800,
         "description": "A soothing fragrance with notes of jasmine and musk.",
-        "size": 12,
+        "size": 20,
         "stock_quantity": 15,
-        "category": "Itar",
+        "category": "Attar",
         "tags": [
-            "female",
-            "itar"
+            "Male",
+            "Attar",
+            "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar5.png",
         "priceAdiscount": 1700,
-        "product_id": "15"
+        "rating": 4
     },
     {
-        "product_name": "Citrus Blast Perfume",
+        "product_name": "Fruity Attar",
         "price": 2400,
         "description": "A zesty citrus fragrance that energizes your day.",
-        "size": 75,
+        "size": 40,
         "stock_quantity": 18,
         "category": "EDP",
         "tags": [
-            "male",
-            "perfume"
+            "uni",
+            "Attar",
+            "Fruity"
         ],
         "image": "https://api-perfume.vercel.app/product/attar6.png",
         "priceAdiscount": 2200,
-        "product_id": "16"
+        "rating": 3
     },
     {
-        "product_name": "Sandalwood Serenity Itar",
+        "product_name": "Sandalwood Serenity Attar",
         "price": 2500,
         "description": "A rich sandalwood fragrance with a calming aroma.",
-        "size": 20,
+        "size": 50,
         "stock_quantity": 12,
-        "category": "Itar",
+        "category": "Attar",
         "tags": [
             "uni",
-            "itar"
+            "Attar",
+            "Woody",
+            "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar7.png",
         "priceAdiscount": 2300,
-        "product_id": "17"
+        "rating": 5
     },
     {
-        "product_name": "Midnight Vanilla Perfume",
+        "product_name": "Midnight Jasmine Attar",
         "price": 3000,
         "description": "A sweet and warm vanilla fragrance for evening wear.",
-        "size": 100,
+        "size": 70,
         "stock_quantity": 22,
-        "category": "EDP",
+        "category": "Attar",
         "tags": [
-            "female",
-            "perfume"
+            "Female",
+            "Attar",
+            "Floral",
+            "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar8.png",
         "priceAdiscount": 2800,
-        "product_id": "18"
+        "rating": 4
     },
     {
-        "product_name": "Oriental Spices Perfume",
+        "product_name": "Oriental Spices Attar",
         "price": 3200,
         "description": "A unique blend of oriental spices and woody notes.",
         "size": 50,
         "stock_quantity": 18,
-        "category": "EDP",
+        "category": "Attar",
         "tags": [
-            "male",
-            "perfume"
+            "uni",
+            "Attar",
+            "Gourmand",
+            "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar9.png",
         "priceAdiscount": 3000,
-        "product_id": "19"
+        "rating": 3
     },
     {
-        "product_name": "Fresh Lavender attar",
+        "product_name": "Rose Attar Cosmetic",
         "price": 1900,
         "description": "A refreshing lavender-based itar perfect for all-day use.",
-        "size": 15,
+        "size": 100,
         "stock_quantity": 20,
         "category": "attar",
         "tags": [
-            "uni",
-            "itar"
+            "Female",
+            "Attar",
+            "Non Alchoholic",
+            "Floral"
+
         ],
         "image": "https://api-perfume.vercel.app/product/attar10.png",
         "priceAfterdiscount": 1800,
-        "product_id": "20"
+        "rating": 3
     }
 ]
