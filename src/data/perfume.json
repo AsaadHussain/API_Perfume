@@ -12,7 +12,7 @@
             "EDP"
         ],
         "image": "https://api-perfume.vercel.app/product/aqua%20di%20gio.png",
-        "priceAdiscount": 1600,
+        "discount": 1600,
         "rating": 4
 
     },
@@ -29,7 +29,7 @@
             "EDP"
         ],
         "image": "https://api-perfume.vercel.app/product/coco%20mad%20chanel.png",
-        "priceAdiscount": 3300,
+        "discount": 3300,
         "rating": 3
     },
     {
@@ -45,7 +45,7 @@
             "EDT"
         ],
         "image": "https://api-perfume.vercel.app/product/di%20gioia.png",
-        "priceAdiscount": 2500,
+        "discount": 2500,
         "rating": 3
     },
     {
@@ -61,7 +61,7 @@
             "Fruity"
         ],
         "image": "https://api-perfume.vercel.app/product/Gucci.png",
-        "priceAdiscount": 1700,
+        "discount": 1700,
         "rating": 4
     },
     {
@@ -77,7 +77,7 @@
             "sporty"
         ],
         "image": "https://api-perfume.vercel.app/product/la%20force.png",
-        "priceAdiscount": 2200,
+        "discount": 2200,
         "rating": 5
     },
     {
@@ -93,7 +93,7 @@
             "Floral"
         ],
         "image": "https://api-perfume.vercel.app/product/laurissi.png",
-        "priceAdiscount": 2200,
+        "discount": 2200,
         "rating": 5
     },
     {
@@ -109,7 +109,7 @@
             "Floral"
         ],
         "image": "https://api-perfume.vercel.app/product/miss%20dier.png",
-        "priceAdiscount": 2500,
+        "discount": 2500,
         "rating": 4
     },
     {
@@ -125,7 +125,7 @@
             "Formal"
         ],
         "image": "https://api-perfume.vercel.app/product/n5%20chanel.png",
-        "priceAdiscount": 2500,
+        "discount": 2500,
         "rating": 4
     },
     {
@@ -141,7 +141,7 @@
             "Woody"
         ],
         "image": "https://api-perfume.vercel.app/product/Rogue.png",
-        "priceAdiscount": 1800,
+        "discount": 1800,
         "rating": 3
     },
     {
@@ -157,7 +157,7 @@
             "Gourmand"
         ],
         "image": "https://api-perfume.vercel.app/product/the%20senses.png",
-        "priceAdiscount": 2100,
+        "discount": 2100,
         "rating": 3
     },
     {
@@ -174,7 +174,7 @@
             "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar1.png",
-        "priceAdiscount": 1000,
+        "discount": 1000,
         "rating": 4
     },
     {
@@ -191,7 +191,7 @@
             "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar2.png",
-        "priceAdiscount": 3200,
+        "discount": 3200,
         "rating": 5
     },
     {
@@ -207,7 +207,7 @@
             "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar3.png",
-        "priceAdiscount": 1400,
+        "discount": 1400,
         "rating": 4
     },
     {
@@ -223,7 +223,7 @@
             "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar4.png",
-        "priceAdiscount": 2500,
+        "discount": 2500,
         "rating": 3
     },
     {
@@ -239,7 +239,7 @@
             "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar5.png",
-        "priceAdiscount": 1700,
+        "discount": 1700,
         "rating": 4
     },
     {
@@ -255,7 +255,7 @@
             "Fruity"
         ],
         "image": "https://api-perfume.vercel.app/product/attar6.png",
-        "priceAdiscount": 2200,
+        "discount": 2200,
         "rating": 3
     },
     {
@@ -272,7 +272,7 @@
             "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar7.png",
-        "priceAdiscount": 2300,
+        "discount": 2300,
         "rating": 5
     },
     {
@@ -289,7 +289,7 @@
             "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar8.png",
-        "priceAdiscount": 2800,
+        "discount": 2800,
         "rating": 4
     },
     {
@@ -306,7 +306,7 @@
             "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar9.png",
-        "priceAdiscount": 3000,
+        "discount": 3000,
         "rating": 3
     },
     {
@@ -324,7 +324,7 @@
 
         ],
         "image": "https://api-perfume.vercel.app/product/attar10.png",
-        "priceAdiscount": 1800,
+        "discount": 1800,
         "rating": 3
     }
 ]
