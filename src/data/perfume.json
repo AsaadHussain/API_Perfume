@@ -174,7 +174,7 @@
             "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar1.png",
-        "price after discount": 1000,
+        "priceAdiscount": 1000,
         "rating": 4
     },
     {
@@ -191,7 +191,7 @@
             "Non Alchoholic"
         ],
         "image": "https://api-perfume.vercel.app/product/attar2.png",
-        "priceaftardiscount": 3200,
+        "priceAdiscount": 3200,
         "rating": 5
     },
     {
@@ -324,7 +324,7 @@
 
         ],
         "image": "https://api-perfume.vercel.app/product/attar10.png",
-        "priceAfterdiscount": 1800,
+        "priceAdiscount": 1800,
         "rating": 3
     }
 ]
